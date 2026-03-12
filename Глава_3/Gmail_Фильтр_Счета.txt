@@ -1,0 +1,1 @@
+from:(epd.online OR prg.perm.ru OR krc-prikam.ru OR novogor.perm.ru OR googleplay-noreply@google.com OR 1trener@trirun.ru OR info@tykwa.ru OR uk-astra.ru OR echeck@1-ofd.ru OR energos.perm.ru) OR subject:("УПРАВЛЯЮЩАЯ КОМПАНИЯ" OR "Счёт от ПАО «Ростелеком»")
