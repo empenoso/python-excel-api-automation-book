@@ -15,10 +15,10 @@
 > 
 > Книга также доступна на популярных маркетплейсах:
 > 
+> - [Читай-город](https://www.chitai-gorod.ru/product/excel-python-i-api-avtomatizacia-dannyh-i-upravlenie-ofisom-domom-finansami-virtual-nyj-disk-s-gotovymi-skriptami-i-primerami-3150933)
 > - [ЛитРес 🔜 скоро!](https://www.litres.ru/)
 > - [Ozon 🔜 скоро!](https://www.ozon.ru/)
 > - [Wildberries 🔜 скоро!](https://www.wildberries.ru/)
-> - [Читай-город](https://www.chitai-gorod.ru/product/excel-python-i-api-avtomatizacia-dannyh-i-upravlenie-ofisom-domom-finansami-virtual-nyj-disk-s-gotovymi-skriptami-i-primerami-3150933)
 
 ---
 
