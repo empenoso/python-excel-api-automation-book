@@ -206,7 +206,7 @@
     
     Установка: `npm install vk-io delay`. Токен в `secret/credentials.json` (не публикуйте!).
 
-*   **Шаблон токена** - [`credentials.json.example`](https://github.com/empenoso/python-excel-api-automation-book/blob/main/Глава_3/credentials.json.example)
+*   **Шаблон токена** - [`vk_likes_credentials.json.example`](https://github.com/empenoso/python-excel-api-automation-book/blob/main/Глава_3/vk_likes_credentials.json.example)
 
     *Относится к разделу:* **3.4**
 
