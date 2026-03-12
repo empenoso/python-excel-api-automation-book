@@ -537,7 +537,7 @@
     *   Как распознать «галлюцинации», когда ИИ выдумывает несуществующие библиотеки и решения.
 
 ### Полезные ссылки к главе:
-1. Брошюра [Prompting Guide 101](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf) - сборник промтов, отобранных Google на основе анализа самых успешных запросов пользователей.
+1. Брошюра [Prompting Guide 101](https://services.google.com/fh/files/misc/gemini_for_workspace_prompt_guide_october_2024_digital_final.pdf) - сборник промтов, отобранных Google на основе анализа самых успешных запросов пользователей.
 
 ---
 
