@@ -1,4 +1,5 @@
 # 📂 Каталог электронных ресурсов  
+![Excel, Python, API](./978-5-6049658-5-6.png)
 ## **Книга: «Excel, Python, API**  
 ## **Автоматизация данных и управление офисом, домом, финансами...»**  
 ## *Автор: [Михаил Шардин](https://shardin.name/?utm_source=book)*
@@ -15,10 +16,10 @@
 > 
 > Книга также доступна на популярных маркетплейсах:
 > 
+> - [Ozon](https://www.ozon.ru/search/?text=978-5-6049658-5-6&from_global=true)
+> - [Wildberries](https://www.wildberries.ru/catalog/881790868/detail.aspx)
 > - [Читай-город](https://www.chitai-gorod.ru/product/excel-python-i-api-avtomatizacia-dannyh-i-upravlenie-ofisom-domom-finansami-virtual-nyj-disk-s-gotovymi-skriptami-i-primerami-3150933)
 > - [ЛитРес 🔜 скоро!](https://www.litres.ru/)
-> - [Ozon 🔜 скоро!](https://www.ozon.ru/)
-> - [Wildberries 🔜 скоро!](https://www.wildberries.ru/)
 
 ---
 
@@ -551,7 +552,12 @@
 *   ⭐ Поставьте звездочку этому репозиторию.
 *   📖 Поддержите автора покупкой книги:  
     — [в издательстве «Наука и Техника»](https://nit.com.ru/product/excel-python-i-api-avtomatizatsiya-dannyh-i-upravlenie-ofisom-domom-finansami-virtualnyy-disk-s-gotovymi-skriptami-i-primerami)  
-    — или на маркетплейсах: [ЛитРес](https://www.litres.ru/), [Ozon](https://www.ozon.ru/), [Wildberries](https://www.wildberries.ru/), [Читай-город](https://www.chitai-gorod.ru/product/excel-python-i-api-avtomatizacia-dannyh-i-upravlenie-ofisom-domom-finansami-virtual-nyj-disk-s-gotovymi-skriptami-i-primerami-3150933)
+    — или на маркетплейсах: 
+    - [Ozon](https://www.ozon.ru/search/?text=978-5-6049658-5-6&from_global=true)
+    - [Wildberries](https://www.wildberries.ru/catalog/881790868/detail.aspx)
+    - [Читай-город](https://www.chitai-gorod.ru/product/excel-python-i-api-avtomatizacia-dannyh-i-upravlenie-ofisom-domom-finansami-virtual-nyj-disk-s-gotovymi-skriptami-i-primerami-3150933)
+    - [ЛитРес 🔜 скоро!](https://www.litres.ru/)
+
 *   🐞 Нашли ошибку? Создайте **Issue** или **Pull Request**.
 
 *Удачи в автоматизации!*
