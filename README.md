@@ -20,6 +20,7 @@
 > - [Wildberries](https://www.wildberries.ru/catalog/881790868/detail.aspx)
 > - [Читай-город](https://www.chitai-gorod.ru/product/excel-python-i-api-avtomatizacia-dannyh-i-upravlenie-ofisom-domom-finansami-virtual-nyj-disk-s-gotovymi-skriptami-i-primerami-3150933)
 > - [Поиск книги через Яндекс](https://ya.ru/search?text=978-5-6049658-5-6&source=tabbar&lr=50)
+> Книга издана только в одном печатном варианте, но цены у разных поставщиков разные! Смело выбирайте самую дешевую цену - не переплачивайте посредникам!
 
 ---
 
@@ -556,7 +557,8 @@
     - [Ozon](https://www.ozon.ru/search/?text=978-5-6049658-5-6&from_global=true)
     - [Wildberries](https://www.wildberries.ru/catalog/881790868/detail.aspx)
     - [Читай-город](https://www.chitai-gorod.ru/product/excel-python-i-api-avtomatizacia-dannyh-i-upravlenie-ofisom-domom-finansami-virtual-nyj-disk-s-gotovymi-skriptami-i-primerami-3150933)
-    - [Поиск книги через Яндекс](https://ya.ru/search?text=978-5-6049658-5-6&source=tabbar&lr=50)
+    - [Поиск книги через Яндекс](https://ya.ru/search?text=978-5-6049658-5-6&source=tabbar&lr=50)    
+    - Книга издана только в одном печатном варианте, но цены у разных поставщиков разные! Смело выбирайте самую дешевую цену - не переплачивайте посредникам!    
 
 *   🐞 Нашли ошибку? Создайте **Issue** или **Pull Request**.
 
